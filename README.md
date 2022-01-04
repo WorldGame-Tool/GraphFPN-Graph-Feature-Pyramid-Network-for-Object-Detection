@@ -1,6 +1,6 @@
-# GraphFPN-Graph-Feature-Pyramid-Network-for-Object-Detection
-download graph-det.zip \
-setting yourself env based on the provided files \
-run train.sh \
-get the result of graphFPN
-A simple version for graphfpn
+# GraphFPN: Graph Feature Pyramid Network for Object Detection
+Download graph-mmdet.zip \
+then you can run: \
+sh train.sh \
+the result of graphFPN \
+a simpel version
