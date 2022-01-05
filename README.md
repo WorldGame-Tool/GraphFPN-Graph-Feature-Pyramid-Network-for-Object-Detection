@@ -10,7 +10,7 @@ For test with Graph_fpn, run
 ~~~
 python test.py
 ~~~
-get the result of graphFPN \ 
+get the result of graphFPN 
 ~~~
 If You need COCO API for test, you can download from [here](https://github.com/cocodataset/cocoapi).
 
