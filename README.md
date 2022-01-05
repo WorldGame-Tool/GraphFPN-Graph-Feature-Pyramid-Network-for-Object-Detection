@@ -62,6 +62,6 @@ this can simply run
 ~~~
 sh train.sh
 ~~~
-get the result of CGL-1 in graphFPN, however, you should add other components from the above codes to run the complete GraphFPN. 
+get the result of CGL-1 in graphFPN, however, you should add other components from graph-FPN-main.zip to run the complete GraphFPN. 
 
 
