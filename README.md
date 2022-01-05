@@ -53,15 +53,13 @@ ${ROOT}
 ## References
 [1] Graph-FPN: [GraphFPN: Graph Feature Pyramid Network for Object Detection](https://arxiv.org/abs/2108.00580) <br>
 
-~~~
 In addition, we provide more detection frameworks that can support GraphFPN
 ~~~
 Download graph-mmdet.zip 
 ~~~
-this code uses mmdetecion as the base framework 
+this code uses mmdetecion as the base framework, you can set yourself env based on [mmdetection](https://github.com/open-mmlab/mmdetection)
 ~~~
-you can set yourself env based on [mmdetection](https://github.com/open-mmlab/mmdetection)
-~~~
-this can simply run: sh train.sh to get the result of CGL-1 in graphFPN, however, you should add other components from the above codes to run the complete GraphFPN. 
+this can simply run: sh train.sh
+get the result of CGL-1 in graphFPN, however, you should add other components from the above codes to run the complete GraphFPN. 
 
 
