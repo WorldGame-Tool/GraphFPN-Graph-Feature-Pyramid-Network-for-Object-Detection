@@ -57,8 +57,7 @@ In addition, we provide more detection frameworks that can support GraphFPN
 ~~~
 Download graph-mmdet.zip 
 ~~~
-this code uses mmdetecion as the base framework, you can set yourself env based on [mmdetection](https://github.com/open-mmlab/mmdetection)
-~~~
+this code uses mmdetecion as the base framework, you can set yourself env based on [mmdetection](https://github.com/open-mmlab/mmdetection) \
 this can simply run
 ~~~
 sh train.sh
