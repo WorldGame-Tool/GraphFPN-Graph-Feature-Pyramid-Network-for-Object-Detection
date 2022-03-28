@@ -65,4 +65,16 @@ sh train.sh
 get the result of Contextual Graph Layers (CGL-1) in graphFPN, however, you should add other components from graph-FPN-main.zip to run the complete GraphFPN.
 Note that, based on the code of graph-mmdet.zip, you can easily construct the complete graph-fpn strcuture. Please reference the code of graph-FPN-main.zip.
 
+## Bibtex
+If you use this code for your research, please consider citing:
+
+@article{GraphFPN,
+  author  = {Gangming Zhao and Weifeng Ge and Yizhou Yu},
+  title     = {GraphFPN: Graph Feature Pyramid Network for Object Detection},
+  booktitle = {IEEE/CVF International Conference on Computer Vision {ICCV}},
+  pages     = {2743--2752},
+  publisher = {IEEE},
+  year      = {2021},
+}
+
 
