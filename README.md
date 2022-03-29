@@ -68,7 +68,7 @@ Note that, based on the code of graph-mmdet.zip, you can easily construct the co
 ## Bibtex
 If you use this code for your research, please consider citing:
 
-@article{GraphFPN,
+@inproceedings{GraphFPN,
   author  = {Gangming Zhao and Weifeng Ge and Yizhou Yu},
   title     = {GraphFPN: Graph Feature Pyramid Network for Object Detection},
   booktitle = {IEEE/CVF International Conference on Computer Vision {ICCV}},
