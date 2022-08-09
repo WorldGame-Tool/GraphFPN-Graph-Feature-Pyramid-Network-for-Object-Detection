@@ -66,8 +66,9 @@ get the result of Contextual Graph Layers (CGL-1) in graphFPN, however, you shou
 Note that, based on the code of graph-mmdet.zip, you can easily construct the complete graph-fpn strcuture. Please reference the code of graph-FPN-main.zip.
 
 
-## Note that graph-FPN-main.zip is originated from the following link.
+## Note that graph-FPN-main.zip is originated from the following link
 https://github.com/lhcezx/Graph-FPN.git
+Based on the above code and mmdetection, we will improve our the codebase of graphFPN better and make it clearer.
 
 
 ## If you use this code for your research, please consider citing:
